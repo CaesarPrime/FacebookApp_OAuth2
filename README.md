@@ -1,7 +1,7 @@
 # Developing Facebook App using OAuth2.0 protocol
 ### This repository contains the files needed to build a Facebook Authenticated applicaiton which can post something on a Facebook feed.
 
-To clone this repository first type 
+To clone this repository first type <br />
 $ git clone https://github.com/CaesarPrime/OAuth2_FB_App.git
 
 Then through that copy those included files to the server root and access through the localhost or any kind of remote machine.
